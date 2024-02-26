@@ -91,8 +91,8 @@
       "rewarded_wallpaper_details": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
-      "app_open_ad_on_resume": true
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
     },
     "global": {
       "interstitial_ad_interval": 3,
